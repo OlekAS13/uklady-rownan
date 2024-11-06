@@ -1,0 +1,2 @@
+# uklady-rownan
+taki teścik
